@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>model</key>
+		<string>Legacy(1990)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>Outback(1995)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>Impreza(1993)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>Impreza WRXSTI(1992-1999)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>AlcyoneSVX(1992)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>Forester(1998)</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,594 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B01DECCA269663870001A0C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECC9269663870001A0C4 /* AppDelegate.swift */; };
+		B01DECCC269663870001A0C4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECCB269663870001A0C4 /* SceneDelegate.swift */; };
+		B01DECCE269663870001A0C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECCD269663870001A0C4 /* ViewController.swift */; };
+		B01DECD1269663870001A0C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B01DECCF269663870001A0C4 /* Main.storyboard */; };
+		B01DECD6269663880001A0C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B01DECD4269663880001A0C4 /* LaunchScreen.storyboard */; };
+		B01DECE1269663FC0001A0C4 /* SubaruYears.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DECE0269663FC0001A0C4 /* SubaruYears.plist */; };
+		B01DECE5269664E80001A0C4 /* YearDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECE4269664E80001A0C4 /* YearDataManager.swift */; };
+		B01DECE7269666690001A0C4 /* Years.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECE6269666690001A0C4 /* Years.swift */; };
+		B01DECE92696679A0001A0C4 /* YearsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECE82696679A0001A0C4 /* YearsTableViewController.swift */; };
+		B01DECEB26968D940001A0C4 /* ModelTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECEA26968D940001A0C4 /* ModelTableViewController.swift */; };
+		B01DECED269691330001A0C4 /* 1990sModels.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DECEC269691330001A0C4 /* 1990sModels.plist */; };
+		B01DECEF269691430001A0C4 /* 2000sModels.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DECEE269691430001A0C4 /* 2000sModels.plist */; };
+		B01DECF1269691570001A0C4 /* 2010sModels.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DECF0269691570001A0C4 /* 2010sModels.plist */; };
+		B01DECF3269691660001A0C4 /* 2020sModels.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DECF2269691660001A0C4 /* 2020sModels.plist */; };
+		B01DECF5269693260001A0C4 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECF4269693260001A0C4 /* Models.swift */; };
+		B01DECF7269693690001A0C4 /* ModelDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECF6269693690001A0C4 /* ModelDataManager.swift */; };
+		B01DECFB2696A69E0001A0C4 /* InfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DECFA2696A69E0001A0C4 /* InfoTableViewCell.swift */; };
+		B01DECFD2696ABF10001A0C4 /* Legacy1990List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DECFC2696ABF00001A0C4 /* Legacy1990List.plist */; };
+		B01DED012696AE4A0001A0C4 /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DED002696AE4A0001A0C4 /* Detail.swift */; };
+		B01DED0926980F460001A0C4 /* InfoDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DED0826980F460001A0C4 /* InfoDataManager.swift */; };
+		B01DED0B26980F900001A0C4 /* InfoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01DED0A26980F900001A0C4 /* InfoTableViewController.swift */; };
+		B01DED0D2698206F0001A0C4 /* Outback1995List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED0C2698206F0001A0C4 /* Outback1995List.plist */; };
+		B01DED0F269821790001A0C4 /* Impreza1993List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED0E269821790001A0C4 /* Impreza1993List.plist */; };
+		B01DED112698227E0001A0C4 /* AlcyoneSVX1992List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED102698227E0001A0C4 /* AlcyoneSVX1992List.plist */; };
+		B01DED13269822FF0001A0C4 /* ImprezaWRXSTI19921999List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED12269822FF0001A0C4 /* ImprezaWRXSTI19921999List.plist */; };
+		B01DED15269823890001A0C4 /* Forester1998List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED14269823890001A0C4 /* Forester1998List.plist */; };
+		B01DED1D2698252C0001A0C4 /* Forester2000List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED1C2698252C0001A0C4 /* Forester2000List.plist */; };
+		B01DED1F269826EE0001A0C4 /* ImprezaWRX2002List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED1E269826EE0001A0C4 /* ImprezaWRX2002List.plist */; };
+		B01DED212698277C0001A0C4 /* Baja2003List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED202698277C0001A0C4 /* Baja2003List.plist */; };
+		B01DED23269827DA0001A0C4 /* WRXSTi2004List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED22269827DA0001A0C4 /* WRXSTi2004List.plist */; };
+		B01DED25269828400001A0C4 /* B9Tribeca2005List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED24269828400001A0C4 /* B9Tribeca2005List.plist */; };
+		B01DED2826982A320001A0C4 /* BRZ2013List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED2726982A320001A0C4 /* BRZ2013List.plist */; };
+		B01DED2A26982A820001A0C4 /* XVCrosstrek2013List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED2926982A820001A0C4 /* XVCrosstrek2013List.plist */; };
+		B01DED2C26989FF70001A0C4 /* WrxSTI2010List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED2B26989FF70001A0C4 /* WrxSTI2010List.plist */; };
+		B01DED2E2698A0390001A0C4 /* Legacy2010List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED2D2698A0390001A0C4 /* Legacy2010List.plist */; };
+		B01DED302698A0780001A0C4 /* Forester2010List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED2F2698A0780001A0C4 /* Forester2010List.plist */; };
+		B01DED332698A14F0001A0C4 /* SubaruOutback2020List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED322698A14F0001A0C4 /* SubaruOutback2020List.plist */; };
+		B01DED352698A1E60001A0C4 /* Forester2020List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED342698A1E60001A0C4 /* Forester2020List.plist */; };
+		B01DED382698A2660001A0C4 /* Crosstrek2020List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED372698A2660001A0C4 /* Crosstrek2020List.plist */; };
+		B01DED3A2698A2BA0001A0C4 /* Ascent2020List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED392698A2BA0001A0C4 /* Ascent2020List.plist */; };
+		B01DED3C2698A3360001A0C4 /* Impreza2020List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED3B2698A3360001A0C4 /* Impreza2020List.plist */; };
+		B01DED3E2698A37B0001A0C4 /* Legacy(2020)List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED3D2698A37B0001A0C4 /* Legacy(2020)List.plist */; };
+		B01DED402698A3EA0001A0C4 /* WRX2020List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED3F2698A3EA0001A0C4 /* WRX2020List.plist */; };
+		B01DED422698A45F0001A0C4 /* WRXSTI2020List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED412698A45F0001A0C4 /* WRXSTI2020List.plist */; };
+		B01DED442698A4C30001A0C4 /* BRZ2020List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B01DED432698A4C30001A0C4 /* BRZ2020List.plist */; };
+		B01DED4626992B310001A0C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B01DED4526992B310001A0C4 /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B01DECC6269663870001A0C4 /* Assignment3-BryanCaron.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Assignment3-BryanCaron.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B01DECC9269663870001A0C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B01DECCB269663870001A0C4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		B01DECCD269663870001A0C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B01DECD0269663870001A0C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B01DECD5269663880001A0C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B01DECD7269663880001A0C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B01DECE0269663FC0001A0C4 /* SubaruYears.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = SubaruYears.plist; sourceTree = "<group>"; };
+		B01DECE4269664E80001A0C4 /* YearDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YearDataManager.swift; sourceTree = "<group>"; };
+		B01DECE6269666690001A0C4 /* Years.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Years.swift; sourceTree = "<group>"; };
+		B01DECE82696679A0001A0C4 /* YearsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YearsTableViewController.swift; sourceTree = "<group>"; };
+		B01DECEA26968D940001A0C4 /* ModelTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelTableViewController.swift; sourceTree = "<group>"; };
+		B01DECEC269691330001A0C4 /* 1990sModels.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = 1990sModels.plist; sourceTree = "<group>"; };
+		B01DECEE269691430001A0C4 /* 2000sModels.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = 2000sModels.plist; sourceTree = "<group>"; };
+		B01DECF0269691570001A0C4 /* 2010sModels.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = 2010sModels.plist; sourceTree = "<group>"; };
+		B01DECF2269691660001A0C4 /* 2020sModels.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = 2020sModels.plist; sourceTree = "<group>"; };
+		B01DECF4269693260001A0C4 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		B01DECF6269693690001A0C4 /* ModelDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelDataManager.swift; sourceTree = "<group>"; };
+		B01DECFA2696A69E0001A0C4 /* InfoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoTableViewCell.swift; sourceTree = "<group>"; };
+		B01DECFC2696ABF00001A0C4 /* Legacy1990List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Legacy1990List.plist; sourceTree = "<group>"; };
+		B01DED002696AE4A0001A0C4 /* Detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
+		B01DED0826980F460001A0C4 /* InfoDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoDataManager.swift; sourceTree = "<group>"; };
+		B01DED0A26980F900001A0C4 /* InfoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoTableViewController.swift; sourceTree = "<group>"; };
+		B01DED0C2698206F0001A0C4 /* Outback1995List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Outback1995List.plist; sourceTree = "<group>"; };
+		B01DED0E269821790001A0C4 /* Impreza1993List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Impreza1993List.plist; sourceTree = "<group>"; };
+		B01DED102698227E0001A0C4 /* AlcyoneSVX1992List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = AlcyoneSVX1992List.plist; sourceTree = "<group>"; };
+		B01DED12269822FF0001A0C4 /* ImprezaWRXSTI19921999List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ImprezaWRXSTI19921999List.plist; sourceTree = "<group>"; };
+		B01DED14269823890001A0C4 /* Forester1998List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Forester1998List.plist; sourceTree = "<group>"; };
+		B01DED1C2698252C0001A0C4 /* Forester2000List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Forester2000List.plist; sourceTree = "<group>"; };
+		B01DED1E269826EE0001A0C4 /* ImprezaWRX2002List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ImprezaWRX2002List.plist; sourceTree = "<group>"; };
+		B01DED202698277C0001A0C4 /* Baja2003List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Baja2003List.plist; sourceTree = "<group>"; };
+		B01DED22269827DA0001A0C4 /* WRXSTi2004List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = WRXSTi2004List.plist; sourceTree = "<group>"; };
+		B01DED24269828400001A0C4 /* B9Tribeca2005List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = B9Tribeca2005List.plist; sourceTree = "<group>"; };
+		B01DED2726982A320001A0C4 /* BRZ2013List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = BRZ2013List.plist; sourceTree = "<group>"; };
+		B01DED2926982A820001A0C4 /* XVCrosstrek2013List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = XVCrosstrek2013List.plist; sourceTree = "<group>"; };
+		B01DED2B26989FF70001A0C4 /* WrxSTI2010List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = WrxSTI2010List.plist; sourceTree = "<group>"; };
+		B01DED2D2698A0390001A0C4 /* Legacy2010List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Legacy2010List.plist; sourceTree = "<group>"; };
+		B01DED2F2698A0780001A0C4 /* Forester2010List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Forester2010List.plist; sourceTree = "<group>"; };
+		B01DED322698A14F0001A0C4 /* SubaruOutback2020List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = SubaruOutback2020List.plist; sourceTree = "<group>"; };
+		B01DED342698A1E60001A0C4 /* Forester2020List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Forester2020List.plist; sourceTree = "<group>"; };
+		B01DED372698A2660001A0C4 /* Crosstrek2020List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Crosstrek2020List.plist; sourceTree = "<group>"; };
+		B01DED392698A2BA0001A0C4 /* Ascent2020List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Ascent2020List.plist; sourceTree = "<group>"; };
+		B01DED3B2698A3360001A0C4 /* Impreza2020List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Impreza2020List.plist; sourceTree = "<group>"; };
+		B01DED3D2698A37B0001A0C4 /* Legacy(2020)List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Legacy(2020)List.plist"; sourceTree = "<group>"; };
+		B01DED3F2698A3EA0001A0C4 /* WRX2020List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = WRX2020List.plist; sourceTree = "<group>"; };
+		B01DED412698A45F0001A0C4 /* WRXSTI2020List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = WRXSTI2020List.plist; sourceTree = "<group>"; };
+		B01DED432698A4C30001A0C4 /* BRZ2020List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = BRZ2020List.plist; sourceTree = "<group>"; };
+		B01DED4526992B310001A0C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../../Downloads/AppIcons/Assets.xcassets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B01DECC3269663870001A0C4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B01DECBD269663870001A0C4 = {
+			isa = PBXGroup;
+			children = (
+				B01DECC8269663870001A0C4 /* Assignment3-BryanCaron */,
+				B01DECC7269663870001A0C4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B01DECC7269663870001A0C4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B01DECC6269663870001A0C4 /* Assignment3-BryanCaron.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B01DECC8269663870001A0C4 /* Assignment3-BryanCaron */ = {
+			isa = PBXGroup;
+			children = (
+				B01DECDF269663930001A0C4 /* Controller */,
+				B01DECDE269663910001A0C4 /* View */,
+				B01DECDD2696638D0001A0C4 /* Model */,
+				B01DECC9269663870001A0C4 /* AppDelegate.swift */,
+				B01DECCB269663870001A0C4 /* SceneDelegate.swift */,
+				B01DECCD269663870001A0C4 /* ViewController.swift */,
+				B01DECCF269663870001A0C4 /* Main.storyboard */,
+				B01DECD4269663880001A0C4 /* LaunchScreen.storyboard */,
+				B01DED4526992B310001A0C4 /* Assets.xcassets */,
+				B01DECD7269663880001A0C4 /* Info.plist */,
+			);
+			path = "Assignment3-BryanCaron";
+			sourceTree = "<group>";
+		};
+		B01DECDD2696638D0001A0C4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B01DED19269824E80001A0C4 /* DataManagers */,
+				B01DED18269824CA0001A0C4 /* Constructor */,
+				B01DED17269824A40001A0C4 /* Years */,
+				B01DED16269824690001A0C4 /* Models */,
+				B01DECE0269663FC0001A0C4 /* SubaruYears.plist */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B01DECDE269663910001A0C4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				B01DECFA2696A69E0001A0C4 /* InfoTableViewCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		B01DECDF269663930001A0C4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				B01DECE82696679A0001A0C4 /* YearsTableViewController.swift */,
+				B01DECEA26968D940001A0C4 /* ModelTableViewController.swift */,
+				B01DED0A26980F900001A0C4 /* InfoTableViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		B01DED16269824690001A0C4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B01DED312698A12C0001A0C4 /* 2020s */,
+				B01DED2626982A270001A0C4 /* 2010s */,
+				B01DED1B269825210001A0C4 /* 2000s */,
+				B01DED1A2698250F0001A0C4 /* 1990s */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B01DED17269824A40001A0C4 /* Years */ = {
+			isa = PBXGroup;
+			children = (
+				B01DECF2269691660001A0C4 /* 2020sModels.plist */,
+				B01DECF0269691570001A0C4 /* 2010sModels.plist */,
+				B01DECEE269691430001A0C4 /* 2000sModels.plist */,
+				B01DECEC269691330001A0C4 /* 1990sModels.plist */,
+			);
+			path = Years;
+			sourceTree = "<group>";
+		};
+		B01DED18269824CA0001A0C4 /* Constructor */ = {
+			isa = PBXGroup;
+			children = (
+				B01DECE6269666690001A0C4 /* Years.swift */,
+				B01DECF4269693260001A0C4 /* Models.swift */,
+				B01DED002696AE4A0001A0C4 /* Detail.swift */,
+			);
+			path = Constructor;
+			sourceTree = "<group>";
+		};
+		B01DED19269824E80001A0C4 /* DataManagers */ = {
+			isa = PBXGroup;
+			children = (
+				B01DECE4269664E80001A0C4 /* YearDataManager.swift */,
+				B01DECF6269693690001A0C4 /* ModelDataManager.swift */,
+				B01DED0826980F460001A0C4 /* InfoDataManager.swift */,
+			);
+			path = DataManagers;
+			sourceTree = "<group>";
+		};
+		B01DED1A2698250F0001A0C4 /* 1990s */ = {
+			isa = PBXGroup;
+			children = (
+				B01DED14269823890001A0C4 /* Forester1998List.plist */,
+				B01DED12269822FF0001A0C4 /* ImprezaWRXSTI19921999List.plist */,
+				B01DED102698227E0001A0C4 /* AlcyoneSVX1992List.plist */,
+				B01DED0E269821790001A0C4 /* Impreza1993List.plist */,
+				B01DED0C2698206F0001A0C4 /* Outback1995List.plist */,
+				B01DECFC2696ABF00001A0C4 /* Legacy1990List.plist */,
+			);
+			path = 1990s;
+			sourceTree = "<group>";
+		};
+		B01DED1B269825210001A0C4 /* 2000s */ = {
+			isa = PBXGroup;
+			children = (
+				B01DED1C2698252C0001A0C4 /* Forester2000List.plist */,
+				B01DED1E269826EE0001A0C4 /* ImprezaWRX2002List.plist */,
+				B01DED202698277C0001A0C4 /* Baja2003List.plist */,
+				B01DED22269827DA0001A0C4 /* WRXSTi2004List.plist */,
+				B01DED24269828400001A0C4 /* B9Tribeca2005List.plist */,
+			);
+			path = 2000s;
+			sourceTree = "<group>";
+		};
+		B01DED2626982A270001A0C4 /* 2010s */ = {
+			isa = PBXGroup;
+			children = (
+				B01DED2726982A320001A0C4 /* BRZ2013List.plist */,
+				B01DED2926982A820001A0C4 /* XVCrosstrek2013List.plist */,
+				B01DED2B26989FF70001A0C4 /* WrxSTI2010List.plist */,
+				B01DED2D2698A0390001A0C4 /* Legacy2010List.plist */,
+				B01DED2F2698A0780001A0C4 /* Forester2010List.plist */,
+			);
+			path = 2010s;
+			sourceTree = "<group>";
+		};
+		B01DED312698A12C0001A0C4 /* 2020s */ = {
+			isa = PBXGroup;
+			children = (
+				B01DED322698A14F0001A0C4 /* SubaruOutback2020List.plist */,
+				B01DED342698A1E60001A0C4 /* Forester2020List.plist */,
+				B01DED372698A2660001A0C4 /* Crosstrek2020List.plist */,
+				B01DED392698A2BA0001A0C4 /* Ascent2020List.plist */,
+				B01DED3B2698A3360001A0C4 /* Impreza2020List.plist */,
+				B01DED3D2698A37B0001A0C4 /* Legacy(2020)List.plist */,
+				B01DED3F2698A3EA0001A0C4 /* WRX2020List.plist */,
+				B01DED412698A45F0001A0C4 /* WRXSTI2020List.plist */,
+				B01DED432698A4C30001A0C4 /* BRZ2020List.plist */,
+			);
+			path = 2020s;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B01DECC5269663870001A0C4 /* Assignment3-BryanCaron */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B01DECDA269663880001A0C4 /* Build configuration list for PBXNativeTarget "Assignment3-BryanCaron" */;
+			buildPhases = (
+				B01DECC2269663870001A0C4 /* Sources */,
+				B01DECC3269663870001A0C4 /* Frameworks */,
+				B01DECC4269663870001A0C4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Assignment3-BryanCaron";
+			productName = "Assignment3-BryanCaron";
+			productReference = B01DECC6269663870001A0C4 /* Assignment3-BryanCaron.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B01DECBE269663870001A0C4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					B01DECC5269663870001A0C4 = {
+						CreatedOnToolsVersion = 12.5.1;
+					};
+				};
+			};
+			buildConfigurationList = B01DECC1269663870001A0C4 /* Build configuration list for PBXProject "Assignment3-BryanCaron" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B01DECBD269663870001A0C4;
+			productRefGroup = B01DECC7269663870001A0C4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B01DECC5269663870001A0C4 /* Assignment3-BryanCaron */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B01DECC4269663870001A0C4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B01DED382698A2660001A0C4 /* Crosstrek2020List.plist in Resources */,
+				B01DED23269827DA0001A0C4 /* WRXSTi2004List.plist in Resources */,
+				B01DED13269822FF0001A0C4 /* ImprezaWRXSTI19921999List.plist in Resources */,
+				B01DED442698A4C30001A0C4 /* BRZ2020List.plist in Resources */,
+				B01DECD6269663880001A0C4 /* LaunchScreen.storyboard in Resources */,
+				B01DECED269691330001A0C4 /* 1990sModels.plist in Resources */,
+				B01DED4626992B310001A0C4 /* Assets.xcassets in Resources */,
+				B01DED1D2698252C0001A0C4 /* Forester2000List.plist in Resources */,
+				B01DECE1269663FC0001A0C4 /* SubaruYears.plist in Resources */,
+				B01DED212698277C0001A0C4 /* Baja2003List.plist in Resources */,
+				B01DED25269828400001A0C4 /* B9Tribeca2005List.plist in Resources */,
+				B01DED302698A0780001A0C4 /* Forester2010List.plist in Resources */,
+				B01DECEF269691430001A0C4 /* 2000sModels.plist in Resources */,
+				B01DED3A2698A2BA0001A0C4 /* Ascent2020List.plist in Resources */,
+				B01DED332698A14F0001A0C4 /* SubaruOutback2020List.plist in Resources */,
+				B01DED3E2698A37B0001A0C4 /* Legacy(2020)List.plist in Resources */,
+				B01DECF1269691570001A0C4 /* 2010sModels.plist in Resources */,
+				B01DED112698227E0001A0C4 /* AlcyoneSVX1992List.plist in Resources */,
+				B01DED2A26982A820001A0C4 /* XVCrosstrek2013List.plist in Resources */,
+				B01DED15269823890001A0C4 /* Forester1998List.plist in Resources */,
+				B01DECF3269691660001A0C4 /* 2020sModels.plist in Resources */,
+				B01DECD1269663870001A0C4 /* Main.storyboard in Resources */,
+				B01DED352698A1E60001A0C4 /* Forester2020List.plist in Resources */,
+				B01DED0D2698206F0001A0C4 /* Outback1995List.plist in Resources */,
+				B01DED3C2698A3360001A0C4 /* Impreza2020List.plist in Resources */,
+				B01DED0F269821790001A0C4 /* Impreza1993List.plist in Resources */,
+				B01DED402698A3EA0001A0C4 /* WRX2020List.plist in Resources */,
+				B01DED1F269826EE0001A0C4 /* ImprezaWRX2002List.plist in Resources */,
+				B01DED2826982A320001A0C4 /* BRZ2013List.plist in Resources */,
+				B01DED2C26989FF70001A0C4 /* WrxSTI2010List.plist in Resources */,
+				B01DED2E2698A0390001A0C4 /* Legacy2010List.plist in Resources */,
+				B01DECFD2696ABF10001A0C4 /* Legacy1990List.plist in Resources */,
+				B01DED422698A45F0001A0C4 /* WRXSTI2020List.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B01DECC2269663870001A0C4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B01DECE92696679A0001A0C4 /* YearsTableViewController.swift in Sources */,
+				B01DECEB26968D940001A0C4 /* ModelTableViewController.swift in Sources */,
+				B01DED0926980F460001A0C4 /* InfoDataManager.swift in Sources */,
+				B01DECCE269663870001A0C4 /* ViewController.swift in Sources */,
+				B01DECF5269693260001A0C4 /* Models.swift in Sources */,
+				B01DECCA269663870001A0C4 /* AppDelegate.swift in Sources */,
+				B01DECE7269666690001A0C4 /* Years.swift in Sources */,
+				B01DECCC269663870001A0C4 /* SceneDelegate.swift in Sources */,
+				B01DECFB2696A69E0001A0C4 /* InfoTableViewCell.swift in Sources */,
+				B01DECF7269693690001A0C4 /* ModelDataManager.swift in Sources */,
+				B01DED0B26980F900001A0C4 /* InfoTableViewController.swift in Sources */,
+				B01DECE5269664E80001A0C4 /* YearDataManager.swift in Sources */,
+				B01DED012696AE4A0001A0C4 /* Detail.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B01DECCF269663870001A0C4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B01DECD0269663870001A0C4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B01DECD4269663880001A0C4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B01DECD5269663880001A0C4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B01DECD8269663880001A0C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B01DECD9269663880001A0C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B01DECDB269663880001A0C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LTU7TDSK2V;
+				INFOPLIST_FILE = "Assignment3-BryanCaron/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.nait.dmit.cpsc1519.Assignment3-BryanCaron";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B01DECDC269663880001A0C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LTU7TDSK2V;
+				INFOPLIST_FILE = "Assignment3-BryanCaron/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.nait.dmit.cpsc1519.Assignment3-BryanCaron";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B01DECC1269663870001A0C4 /* Build configuration list for PBXProject "Assignment3-BryanCaron" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B01DECD8269663880001A0C4 /* Debug */,
+				B01DECD9269663880001A0C4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B01DECDA269663880001A0C4 /* Build configuration list for PBXNativeTarget "Assignment3-BryanCaron" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B01DECDB269663880001A0C4 /* Debug */,
+				B01DECDC269663880001A0C4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B01DECBE269663870001A0C4 /* Project object */;
+}

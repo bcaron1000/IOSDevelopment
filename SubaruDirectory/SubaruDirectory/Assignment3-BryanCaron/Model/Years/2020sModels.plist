@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>model</key>
+		<string>Subaru Outback(2020)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>Forester(2020)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>Crosstrek(2020)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>Ascent(2020)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>Impreza(2020)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>Legacy(2020)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>WRX(2020)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>WRXSTI(2020)</string>
+	</dict>
+	<dict>
+		<key>model</key>
+		<string>BRZ(2020)</string>
+	</dict>
+</array>
+</plist>

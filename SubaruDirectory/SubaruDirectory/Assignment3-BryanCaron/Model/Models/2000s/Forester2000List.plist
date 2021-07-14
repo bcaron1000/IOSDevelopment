@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>detail</key>
+		<string>The second generation was introduced as a 2003 model at the 2002 Chicago Auto Show, based on the new Impreza platform, featuring several fine-tune improvements over the past model. The 2003 Forester features weight-saving refinements such as an aluminum hood, perforated rails, and a hydro-formed front sub-frame. The most noticeable change was the offering of 2.5 L versions (normally aspirated and turbocharged) and in the U.S. the introduction of the turbocharged 2.5-liter model.</string>
+		<key>engineSize</key>
+		<string>2.0 L EJ20 H4 2.0 L EJ20 turbo H4 2.5 L EJ253 H4 2.5 L EJ255 turbo H4
+2.5 L EJ25 turbo H4 (JDM Forester STi)</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "738A6022-EDC0-4AED-B815-26E898E76BD8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF7670F1-17EB-400D-85B9-E934C4DFC1AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/YearsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58C8199E-728D-458F-8A49-4DBDA5EA0CE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/YearsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BC31E7D-0319-4691-B501-340BE2E281FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ModelTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5674E776-66AF-4CA0-8305-531073B435B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB640829-D849-46C6-A86A-BC9DB4655DDE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/YearsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A0E5906-6378-4F06-BD55-E67CF6EF18B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/YearsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86542174-4B15-4236-8711-9E60CE340B92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F242A6D6-6871-4D28-9A2A-3BAA9B2CEE40"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE33B20D-D8B9-493F-8CA5-C8F4FF6325D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "InfoTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30015294-A481-4819-9A56-552262C4BA92"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61817206-77E2-40EF-8C40-E4FCF7937599"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Model/detailDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init(fileName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61817206-77E2-40EF-8C40-E4FCF7937599 - ad5b4ceb6dfb1651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.detailDataManager.__allocating_init(fileName: Swift.String) -&gt; Assignment3_BryanCaron.detailDataManager"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Model/detailDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "61817206-77E2-40EF-8C40-E4FCF7937599 - cbfaa1c987f59550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.detailDataManager.init(fileName: Swift.String) -&gt; Assignment3_BryanCaron.detailDataManager"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Model/detailDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41F9A126-7AA0-476D-9A49-3ABA63656646"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Model/Detail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Detail"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C43BB80-0708-42A0-88A6-BFC8DE3C6BA3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Model/ModelDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(fileName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8DF5E48-96EE-4D02-B8B3-404EEBC61F86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Model/detailDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(fileName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "515C3577-CC2E-408B-BE42-FE50406C7A9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Model/Details.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Detail"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E74DE3C3-F00A-4E3F-9E26-DD4649E14DFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "InfoTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E74DE3C3-F00A-4E3F-9E26-DD4649E14DFA - dfa31de7c5531ab5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.selectedModel.getter : Swift.Optional&lt;Assignment3_BryanCaron.Model&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "E74DE3C3-F00A-4E3F-9E26-DD4649E14DFA - 505c51e29c291689"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.selectedModel.setter : Swift.Optional&lt;Assignment3_BryanCaron.Model&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "E74DE3C3-F00A-4E3F-9E26-DD4649E14DFA - c7be71e5abd8f2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.selectedModel.modify : Swift.Optional&lt;Assignment3_BryanCaron.Model&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "E74DE3C3-F00A-4E3F-9E26-DD4649E14DFA - 29ff6d01f7d9b4f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.selectedModel.modify : Swift.Optional&lt;Assignment3_BryanCaron.Model&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "E74DE3C3-F00A-4E3F-9E26-DD4649E14DFA - 52b73e03696364cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.init(style: __C.UITableViewStyle) -&gt; Assignment3_BryanCaron.InfoTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "E74DE3C3-F00A-4E3F-9E26-DD4649E14DFA - f0eabadc33ba2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Assignment3_BryanCaron.InfoTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E74DE3C3-F00A-4E3F-9E26-DD4649E14DFA - 211c73db8e53ba3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Assignment3_BryanCaron.InfoTableViewController&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91A2AC90-E942-42F5-8AFB-307E0AC0C74B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ModelTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "91A2AC90-E942-42F5-8AFB-307E0AC0C74B - 93cfb36dd77649b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.selectedYear.getter : Swift.Optional&lt;Assignment3_BryanCaron.Year&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "91A2AC90-E942-42F5-8AFB-307E0AC0C74B - b4b90477aee841ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.selectedYear.setter : Swift.Optional&lt;Assignment3_BryanCaron.Year&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "91A2AC90-E942-42F5-8AFB-307E0AC0C74B - 543fbf311901bdc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.selectedYear.modify : Swift.Optional&lt;Assignment3_BryanCaron.Year&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "91A2AC90-E942-42F5-8AFB-307E0AC0C74B - 63965b51130e55a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.selectedYear.modify : Swift.Optional&lt;Assignment3_BryanCaron.Year&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "91A2AC90-E942-42F5-8AFB-307E0AC0C74B - 42ad0f3b46f751de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.init(style: __C.UITableViewStyle) -&gt; Assignment3_BryanCaron.ModelTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "91A2AC90-E942-42F5-8AFB-307E0AC0C74B - 8d2d5228ab48f9b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Assignment3_BryanCaron.ModelTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "91A2AC90-E942-42F5-8AFB-307E0AC0C74B - 3e012ae3568c2eee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Assignment3_BryanCaron.ModelTableViewController&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE0D3D64-33C1-4594-929A-E4A248569E06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ModelTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FE0D3D64-33C1-4594-929A-E4A248569E06 - 78f81be043e15f79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.dataManager.getter : Swift.Optional&lt;Assignment3_BryanCaron.ModelDataManager&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "FE0D3D64-33C1-4594-929A-E4A248569E06 - 2bd1eea0bc070375"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.dataManager.setter : Swift.Optional&lt;Assignment3_BryanCaron.ModelDataManager&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "FE0D3D64-33C1-4594-929A-E4A248569E06 - c64b3fad3037da48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.dataManager.modify : Swift.Optional&lt;Assignment3_BryanCaron.ModelDataManager&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FE0D3D64-33C1-4594-929A-E4A248569E06 - 9f683c27abc66dc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.dataManager.modify : Swift.Optional&lt;Assignment3_BryanCaron.ModelDataManager&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FE0D3D64-33C1-4594-929A-E4A248569E06 - 42ad0f3b46f75198"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.init(style: __C.UITableViewStyle) -&gt; Assignment3_BryanCaron.ModelTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "FE0D3D64-33C1-4594-929A-E4A248569E06 - 8d2d5228ab48f9f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Assignment3_BryanCaron.ModelTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "FE0D3D64-33C1-4594-929A-E4A248569E06 - 3e012ae3568c2ea8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.ModelTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Assignment3_BryanCaron.ModelTableViewController&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/ModelTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "426547AF-A392-4DAE-87A2-37CD0BF29404"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "InfoTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "426547AF-A392-4DAE-87A2-37CD0BF29404 - 447adecff5c0b594"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; Assignment3_BryanCaron.InfoTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "426547AF-A392-4DAE-87A2-37CD0BF29404 - 52b73e03696364cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.init(style: __C.UITableViewStyle) -&gt; Assignment3_BryanCaron.InfoTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "426547AF-A392-4DAE-87A2-37CD0BF29404 - 9fc6a4fee6cd7f8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Assignment3_BryanCaron.InfoTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "426547AF-A392-4DAE-87A2-37CD0BF29404 - f0eabadc33ba2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Assignment3_BryanCaron.InfoTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "426547AF-A392-4DAE-87A2-37CD0BF29404 - 588f37610017ce22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Assignment3_BryanCaron.InfoTableViewController&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "426547AF-A392-4DAE-87A2-37CD0BF29404 - 211c73db8e53ba3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Assignment3_BryanCaron.InfoTableViewController&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "426547AF-A392-4DAE-87A2-37CD0BF29404 - d493bcd40f267075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.__deallocating_deinit"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93629F30-CDF8-4CC9-A4CC-865CD33C5240"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "InfoTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "93629F30-CDF8-4CC9-A4CC-865CD33C5240 - dfa31de7c5531ab5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.selectedModel.getter : Swift.Optional&lt;Assignment3_BryanCaron.Model&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "93629F30-CDF8-4CC9-A4CC-865CD33C5240 - 505c51e29c291689"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.selectedModel.setter : Swift.Optional&lt;Assignment3_BryanCaron.Model&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "93629F30-CDF8-4CC9-A4CC-865CD33C5240 - c7be71e5abd8f2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.selectedModel.modify : Swift.Optional&lt;Assignment3_BryanCaron.Model&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "93629F30-CDF8-4CC9-A4CC-865CD33C5240 - 29ff6d01f7d9b4f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.selectedModel.modify : Swift.Optional&lt;Assignment3_BryanCaron.Model&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "93629F30-CDF8-4CC9-A4CC-865CD33C5240 - 52b73e03696364cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.init(style: __C.UITableViewStyle) -&gt; Assignment3_BryanCaron.InfoTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "93629F30-CDF8-4CC9-A4CC-865CD33C5240 - f0eabadc33ba2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Assignment3_BryanCaron.InfoTableViewController"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "93629F30-CDF8-4CC9-A4CC-865CD33C5240 - 211c73db8e53ba3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment3_BryanCaron.InfoTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Assignment3_BryanCaron.InfoTableViewController&gt;"
+                  moduleName = "Assignment3-BryanCaron"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryancaron/Desktop/Assignment2/cpsc1519-assignment-3-bcaron1000/Assignment3-BryanCaron/Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8071699-B947-4748-83C3-D8408C809AB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Model/InfoDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init(fileName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73B87A73-9F8D-40FD-BDB5-DFC1BCA2977B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment3-BryanCaron/Controller/InfoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

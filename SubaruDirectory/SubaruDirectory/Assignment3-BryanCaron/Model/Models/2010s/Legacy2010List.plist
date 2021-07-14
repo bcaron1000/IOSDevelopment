@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>detail</key>
+		<string>The mid-size Subaru Legacy sedan has been completely redesigned for 2010, and it&apos;s grown larger inside and out, including a refreshed powertrain lineup, with upgraded engines in the turbocharged 2.5GT and six-cylinder 3.6R models. While the outgoing Legacy could trace a few of its components all the way back to 1989, this version is built on a new platform, based somewhat on the Impreza and WRX, and shares nothing with the 2009 model.</string>
+		<key>engineSize</key>
+		<string>Ej25d - Ej36R</string>
+	</dict>
+</array>
+</plist>
